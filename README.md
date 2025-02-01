@@ -11,47 +11,42 @@
 
 <header style="background-color: #333; color: white; padding: 30px; text-align: center;">
     <h1>Willkommen auf meiner persönlichen Webseite</h1>
-    <p>Ich bin ein engagierter Schüler, leidenschaftlicher Fußballspieler und jemand, der immer nach neuen Wegen sucht, sich weiterzuentwickeln.</p>
+    <p>Ich bin ein engagierter Schüler, leidenschaftlicher Fußballspieler und immer auf der Suche nach neuen Wegen, mich weiterzuentwickeln.</p>
 </header>
 
 <section style="margin: 40px;">
     <h2>Über mich</h2>
-    <p>Ich bin ein 18-jähriger Schüler mit einer großen Leidenschaft für den Fußball, den ich fast jeden Tag mit Hingabe spiele. Als Mittelfeldspieler, meist auf der Position der Nummer 10 oder manchmal als 6, ist es mein Ziel, das Spiel zu lenken, das Team zu motivieren und durch präzise Pässe sowie strategische Läufe Tore vorzubereiten. Fußball ist für mich mehr als nur ein Sport – es ist eine Lebensschule, in der ich Disziplin, Teamarbeit und Ausdauer schätze.</p>
+    <p>Ich bin ein 18-jähriger Schüler, der sich stark für Fußball begeistert. Als Mittelfeldspieler, vor allem in der Position der Nummer 10 oder auch als 6, liegt mein Fokus auf Teamarbeit, Spielführung und der Entwicklung meiner technischen Fähigkeiten. Auf dem Platz arbeite ich ständig daran, meine Ausdauer und Spielintelligenz zu verbessern und mein Team zu unterstützen.</p>
     
-    <p>Abseits des Fußballplatzes bin ich ein leidenschaftlicher Leser und beschäftige mich insbesondere mit Themen wie Psychologie und persönlicher Weiterentwicklung. Das Buch "Die Gesetze der menschlichen Natur" ist nur eines der Werke, die mir neue Perspektiven vermitteln und mich dazu inspirieren, das Verhalten von Menschen besser zu verstehen und in meinem Alltag anzuwenden.</p>
-
-    <p>Ich lege großen Wert auf Fitness und versuche, mein körperliches und geistiges Wohlbefinden zu fördern. Regelmäßige Trainings, sei es durch Laufen oder zu Hause, helfen mir dabei, meine Ziele zu erreichen und mich konstant zu verbessern.</p>
+    <p>Abseits des Fußballplatzes schätze ich die Bedeutung von Fitness und einer gesunden Lebensweise. Es ist mir wichtig, nicht nur körperlich stark zu sein, sondern auch geistig fit zu bleiben. Ich trainiere regelmäßig, sei es beim Laufen oder durch gezielte Fitnessübungen, um meine Ausdauer und Kraft zu steigern.</p>
 </section>
 
 <section style="margin: 40px;">
     <h2>Meine Hobbys und Interessen</h2>
-    <p>Abgesehen von meiner schulischen und sportlichen Karriere habe ich viele weitere Interessen, die meine Persönlichkeit und meinen Alltag bereichern. Hier sind einige meiner liebsten Hobbys und Themen, die mich faszinieren:</p>
+    <p>Ich bin vielseitig interessiert und finde Inspiration in verschiedenen Bereichen, die mir helfen, mich sowohl körperlich als auch geistig weiterzuentwickeln:</p>
     <ul style="list-style-type: none; padding: 0;">
         <li style="background-color: #f2f2f2; margin: 10px 0; padding: 15px; border-radius: 5px;">
-            <strong>Fußball spielen:</strong> Fußball ist meine Leidenschaft. Ob im Training oder im Wettkampf – ich gebe stets mein Bestes, um als Mittelfeldspieler das Spiel zu dominieren und mein Team zum Sieg zu führen.
+            <strong>Fußball spielen:</strong> Fußball ist meine größte Leidenschaft. Als Mittelfeldspieler arbeite ich ständig daran, meine Technik und Spielintelligenz zu verbessern, um meine Rolle auf dem Feld noch effektiver ausfüllen zu können.
         </li>
         <li style="background-color: #f2f2f2; margin: 10px 0; padding: 15px; border-radius: 5px;">
-            <strong>Bücher lesen:</strong> Ich lese viel über Psychologie, zahlreiche Romane und persönliche Weiterentwicklung. Das hilft mir nicht nur in meiner schulischen Laufbahn, sondern auch dabei, meine sozialen Fähigkeiten zu verbessern.
+            <strong>Musik hören:</strong> Musik ist für mich eine wichtige Quelle der Motivation. Besonders Rap- und Pop-Rap-Songs begleiten mich bei meinen Trainings und in meiner Freizeit und geben mir die nötige Energie, meine Ziele zu verfolgen.
         </li>
         <li style="background-color: #f2f2f2; margin: 10px 0; padding: 15px; border-radius: 5px;">
-            <strong>Musik hören:</strong> Musik ist für mich eine Quelle der Inspiration und Motivation. Besonders Rap- und Pop-Rap-Songs begleiten mich in meiner Freizeit und beim Training. Sie geben mir Energie und treiben mich an, meine besten Leistungen zu erzielen.
-        </li>
-        <li style="background-color: #f2f2f2; margin: 10px 0; padding: 15px; border-radius: 5px;">
-            <strong>Sport und Fitness:</strong> Sport ist für mich nicht nur eine Aktivität, sondern eine Lebenseinstellung. Ob durch Laufen, Fußball oder gezielte Fitnessübungen – ich strebe danach, meine körperliche und geistige Stärke kontinuierlich zu verbessern.
+            <strong>Sport und Fitness:</strong> Neben dem Fußball lege ich großen Wert auf meine körperliche Fitness. Ich trainiere regelmäßig, um meine Ausdauer zu steigern und meinen Körper fit zu halten.
         </li>
     </ul>
 </section>
 
 <section style="margin: 40px;">
     <h2>Schulisches Engagement</h2>
-    <p>In meiner schulischen Laufbahn strebe ich stets nach hervorragenden Leistungen. Ich bin ein engagierter Schüler, der die Bedeutung von Bildung und kontinuierlichem Lernen zu schätzen weiß. Durch eine gute Organisation und ein diszipliniertes Zeitmanagement versuche ich, sowohl in der Schule als auch im Fußball erfolgreich zu sein.</p>
+    <p>Ich bin ein engagierter Schüler, der stets nach Wegen sucht, sich akademisch und persönlich zu verbessern. Dabei ist mir wichtig, nicht nur gute Noten zu erzielen, sondern auch praktische Fähigkeiten zu entwickeln, die mir in meiner zukünftigen Laufbahn von Nutzen sein können.</p>
 
-    <p>Besonders in den Bereichen, die mich persönlich und beruflich weiterbringen, lege ich großen Wert darauf, mir fundiertes Wissen anzueignen. Ich interessiere mich sehr für psychologische Themen, menschliches Verhalten und wie wir durch Selbstreflexion und kontinuierliche Verbesserung zu einer besseren Version unserer selbst werden können.</p>
+    <p>Ich bin der Meinung, dass eine starke schulische Basis der Schlüssel zu einer erfolgreichen Zukunft ist. Deshalb strebe ich danach, mein Wissen kontinuierlich zu erweitern und mich in den Bereichen, die mich besonders interessieren, zu spezialisieren.</p>
 </section>
 
 <footer style="background-color: #333; color: white; text-align: center; padding: 20px; position: relative; bottom: 0; width: 100%;">
     <p>&copy; 2025 – Alle Rechte vorbehalten</p>
-    <p>Kontakt: <a href="mailto:meineemail@example.com" style="color: white;">yunusemre0303@icloud.com</a></p>
+    <p>Kontakt: <a href="mailto:meineemail@example.com" style="color: white;">meineemail@example.com</a></p>
 </footer>
 
 </body>
