@@ -46,7 +46,7 @@
 
 <footer style="background-color: #333; color: white; text-align: center; padding: 20px; position: relative; bottom: 0; width: 100%;">
     <p>&copy; 2025 – Alle Rechte vorbehalten</p>
-    <p>Kontakt: <a href="mailto:meineemail@example.com" style="color: white;">meineemail@example.com</a></p>
+    <p>Kontakt: <a href="mailto:meineemail@example.com" style="color: white;">yunusemre0303@icloud.com</a></p>
 </footer>
 
 </body>
