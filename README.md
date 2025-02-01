@@ -2,8 +2,7 @@
 
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 
-function Home() {
-  return (
+
     <div className="p-4 text-center">
       <h1 className="text-3xl font-bold">Willkommen auf meiner Website!</h1>
       <p className="mt-2">Hier erfährst du mehr über mich.</p>
@@ -11,8 +10,7 @@ function Home() {
   );
 }
 
-function Football() {
-  return (
+
     <div className="p-4">
       <h2 className="text-2xl font-semibold">⚽ Fußball</h2>
       <p className="mt-2">Ich spiele als Mittelfeldspieler bei SPG KUMMA U18.</p>
@@ -20,8 +18,7 @@ function Football() {
   );
 }
 
-function School() {
-  return (
+
     <div className="p-4">
       <h2 className="text-2xl font-semibold">📚 Schule</h2>
       <p className="mt-2">Ich bin Schüler und interessiere mich besonders für Wissen und Bücher.</p>
@@ -29,8 +26,7 @@ function School() {
   );
 }
 
-function Hobbies() {
-  return (
+
     <div className="p-4">
       <h2 className="text-2xl font-semibold">🎯 Hobbys</h2>
       <p className="mt-2">Ich lese gerne, trainiere viel und höre Rap/Pop-Songs.</p>
@@ -38,8 +34,7 @@ function Hobbies() {
   );
 }
 
-function Navbar() {
-  return (
+
     <nav className="p-4 bg-gray-800 text-white flex gap-4">
       <Link to="/">Home</Link>
       <Link to="/football">Fußball</Link>
