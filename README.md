@@ -18,7 +18,7 @@
     <h2>Über mich</h2>
     <p>Ich bin ein 18-jähriger Schüler, der sich stark für Fußball begeistert. Als Mittelfeldspieler, vor allem in der Position der Nummer 10 oder auch als 6, liegt mein Fokus auf Teamarbeit, Spielführung und der Entwicklung meiner technischen Fähigkeiten. Auf dem Platz arbeite ich ständig daran, meine Ausdauer und Spielintelligenz zu verbessern und mein Team zu unterstützen.</p>
     
-    <p>Abseits des Fußballplatzes schätze ich die Bedeutung von Fitness und einer gesunden Lebensweise. Es ist mir wichtig, nicht nur körperlich stark zu sein, sondern auch geistig fit zu bleiben. Ich trainiere regelmäßig, sei es beim Laufen oder durch gezielte Fitnessübungen, um meine Ausdauer und Kraft zu steigern.</p>
+    
 </section>
 
 <section style="margin: 40px;">
@@ -41,7 +41,7 @@
     <h2>Schulisches Engagement</h2>
     <p>Ich bin ein engagierter Schüler, der stets nach Wegen sucht, sich akademisch und persönlich zu verbessern. Dabei ist mir wichtig, nicht nur gute Noten zu erzielen, sondern auch praktische Fähigkeiten zu entwickeln, die mir in meiner zukünftigen Laufbahn von Nutzen sein können.</p>
 
-    <p>Ich bin der Meinung, dass eine starke schulische Basis der Schlüssel zu einer erfolgreichen Zukunft ist. Deshalb strebe ich danach, mein Wissen kontinuierlich zu erweitern und mich in den Bereichen, die mich besonders interessieren, zu spezialisieren.</p>
+    
 </section>
 
 <footer style="background-color: #333; color: white; text-align: center; padding: 20px; position: relative; bottom: 0; width: 100%;">
