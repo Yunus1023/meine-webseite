@@ -1,59 +1,80 @@
 # meine-webseite
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meine Webseite</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            margin: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            background-color: #e2e2e2;
+            margin: 10px 0;
+            padding: 10px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
 
+<header>
+    <h1>Willkommen auf meiner Webseite!</h1>
+    <p>Ich bin ein Schüler, der Fußball spielt und viele Hobbys hat!</p>
+</header>
 
-    <div className="p-4 text-center">
-      <h1 className="text-3xl font-bold">Willkommen auf meiner Website!</h1>
-      <p className="mt-2">Hier erfährst du mehr über mich.</p>
-    </div>
-  );
-}
+<section>
+    <h2>Über mich</h2>
+    <p>Ich bin ein Schüler und spiele leidenschaftlich Fußball. In meiner Freizeit interessiere ich mich für viele verschiedene Dinge, wie das Lesen von Büchern und das Training, um meine Fitness und Technik zu verbessern.</p>
+</section>
 
+<section>
+    <h2>Meine Hobbys und Interessen</h2>
+    <ul>
+        <li>Fußball spielen</li>
+        <li>Bücher lesen</li>
+        <li>Sport und Fitness</li>
+        <li>Musik hören, besonders Koffein-Rap-Songs</li>
+    </ul>
+</section>
 
-    <div className="p-4">
-      <h2 className="text-2xl font-semibold">⚽ Fußball</h2>
-      <p className="mt-2">Ich spiele als Mittelfeldspieler bei SPG KUMMA U18.</p>
-    </div>
-  );
-}
+<section>
+    <h2>Schulisches</h2>
+    <p>Ich bin aktuell Schüler und fokussiere mich darauf, meine schulischen Ziele zu erreichen, um in der Zukunft erfolgreich zu sein.</p>
+</section>
 
+<footer>
+    <p>&copy; 2025 Meine Webseite</p>
+</footer>
 
-    <div className="p-4">
-      <h2 className="text-2xl font-semibold">📚 Schule</h2>
-      <p className="mt-2">Ich bin Schüler und interessiere mich besonders für Wissen und Bücher.</p>
-    </div>
-  );
-}
-
-
-    <div className="p-4">
-      <h2 className="text-2xl font-semibold">🎯 Hobbys</h2>
-      <p className="mt-2">Ich lese gerne, trainiere viel und höre Rap/Pop-Songs.</p>
-    </div>
-  );
-}
-
-
-    <nav className="p-4 bg-gray-800 text-white flex gap-4">
-      <Link to="/">Home</Link>
-      <Link to="/football">Fußball</Link>
-      <Link to="/school">Schule</Link>
-      <Link to="/hobbies">Hobbys</Link>
-    </nav>
-  );
-}
-
-export default function App() {
-  return (
-    <Router>
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/football" element={<Football />} />
-        <Route path="/school" element={<School />} />
-        <Route path="/hobbies" element={<Hobbies />} />
-      </Routes>
-    </Router>
-  );
-}
+</body>
+</html>
